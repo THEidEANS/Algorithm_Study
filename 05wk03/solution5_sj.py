@@ -9,12 +9,6 @@ class Solution:
         if string == "":
             answer = 0
         else:
-            string_list = list(string)
-
-            if string_list[0] == '-':
-                isMinus = True
-
-
             number_list = re.findall(r"^[-+]?[0-9]+", string)
 
             print(number_list)
