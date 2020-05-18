@@ -1,7 +1,6 @@
 # idEANS 팀원들의 Coding Challenge!
 매주 적어도 한문제씩 뽀개며 프로그래밍 쎈쑤를 잊지 않기 위해 만든 study repository 입니다~~ :)
 <br/> <br/> <br/> 
-
 하기 목록을 누르면 문제로 이동되며, 선택한 문제 상위 폴더에 각자의 솔루션을 공유할 예정입니다. :)
 
 ## Challenge List
